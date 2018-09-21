@@ -1,0 +1,1 @@
+java -jar docbuilder-0.0.1-SNAPSHOT.jar -D-Dspring.config.location=./application.properties
